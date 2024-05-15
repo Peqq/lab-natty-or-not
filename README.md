@@ -14,6 +14,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 1. **Potfólio de Projetos**:
     1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
     2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
+
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
@@ -22,21 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
-## 📒 Descrição
-Breve descrição do seu projeto
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+                                                          ##########################  Ebook: "8 Dicas para uma Pele Mais Saudável"#########################
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O ebook "8 Dicas para uma Pele Mais Saudável" é um projeto desenvolvido em colaboração com três inteligências artificiais avançadas: Gamma, ChatGPT e MidJourney. Este ebook reúne uma seleção de dicas práticas e inspiradoras para ajudar as pessoas a conquistarem uma pele mais saudável e radiante.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Com a contribuição dessas inteligências artificiais, pudemos criar um conteúdo rico e diversificado, que aborda uma variedade de aspectos importantes para a saúde e o cuidado da pele. Desde a limpeza e hidratação adequadas até a proteção contra os danos causados pelo sol e o estímulo à regeneração celular, cada dica foi cuidadosamente elaborada com base em pesquisas científicas e insights de especialistas.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Além disso, o conteúdo é apresentado de forma acessível e envolvente, tornando-o fácil de ser compreendido e aplicado no dia a dia. Ao seguir as orientações fornecidas neste ebook, os leitores terão a oportunidade de adotar hábitos mais saudáveis e eficazes para cuidar da sua pele, promovendo uma aparência mais jovem, luminosa e vibrante.
+
+Estamos muito orgulhosos do resultado deste ebook e esperamos que ele possa ser uma fonte valiosa de informação e inspiração para todos aqueles que desejam alcançar e manter uma pele bonita, saudável e radiante.
+
+[pdf] 
+
 
 ### Exemplos e Insigths
 
